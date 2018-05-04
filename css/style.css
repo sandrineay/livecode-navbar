@@ -1,0 +1,9 @@
+@import url("components/navbar.css");
+
+#logo {
+  width: 50px;
+}
+
+body {
+  background-color: rgb(220, 220, 220);
+}

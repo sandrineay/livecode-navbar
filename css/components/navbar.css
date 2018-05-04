@@ -1,0 +1,16 @@
+.navbar {
+  padding: 10px;
+  background-color: white;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-right {
+  flex: 0 0 300px;
+  display: flex;
+  justify-content: space-around;
+}
